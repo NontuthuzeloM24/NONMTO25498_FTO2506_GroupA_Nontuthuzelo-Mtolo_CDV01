@@ -27,13 +27,21 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Skills:
 
      ✅Basic Web
+
      ✅HTML
+
      ✅CSS
+
      ✅Text Editors
+
      ✅Vesion Control
+
    - Skills that need to be developed or improved.
+
      ✅CSS and HTML
+
      ✅JavaScript
+     
      ✅Front-end Frameworks like React
 
 2. **Interests and Values**:
@@ -41,13 +49,17 @@ By completing this reflection, you will gain a clearer understanding of your car
    - My key interests related to my career.
 
      ✅Web Development & Front-end Development
+
      ✅Mobile App Development
 
    - Values that are important to me in a work environment?
 
      ✅Team Collaboration
+
      ✅Growth
+
      ✅Creativity and Innovation
+
      ✅Supportive Mentorship
 
 ### Part 2: Career Exploration Insights
@@ -57,17 +69,21 @@ By completing this reflection, you will gain a clearer understanding of your car
    - The list of industries I would like to work in.
 
      ✅Technology and Software
+
      ✅Fintech
+
      ✅E-Commerce and Retail
 
    -Roles include but not limited to:
 
-   ✅Front-end developer
-   ✅Cross-Platform developer
+     ✅Front-end developer
+
+     ✅Cross-Platform developer
 
    - Areas that piqued my interest.
 
      ✅Mobile Development
+
      ✅Responsive Web Development
 
 2. **Alignment with Personal Profile**:
@@ -87,7 +103,9 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Listing my specific, measurable, achievable, relevant, and time-bound goals.
 
      ✅Learn JavaScript Fundamentals
+
      ✅Learn Git and Publish a Project on GitHub
+
      ✅Practice Responsive Web Design
 
    - Explain the rationale behind each goal.
@@ -100,10 +118,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
+   - Outlining my long-term career aspirations.
 
      ✅Become a Front-end Developer
+
      ✅Advance to a Senior or Lead Developer Role
+
      ✅Work in a Creative or Mission-Driven Tech Industry
 
    - Describe how these align with my interests and skills.
@@ -119,22 +139,31 @@ By completing this reflection, you will gain a clearer understanding of your car
      1. Learn JavaScript Fundamentals:
 
         ✅Choosing a beginner-friendly course (e.g., freeCodeCamp, Codecademy)
+
         ✅Set a weekly schedule: Dedicate 40 hours per week
+
         ✅Practice coding exercises daily
+
         ✅Build mini-projects
 
      2. Learn Git and Publish a Project on GitHub:
 
         ✅Start with a Git basics tutorial: Use GitHub’s official guide or freeCodeCamp’s Git section.
+
         ✅Practice common commands: git init, git add, git commit, git push, git pull.
+
         ✅Make regular commits to save my progress with clear messages.
+
         ✅Push my project to a new GitHub repository.
 
      3. Practice Responsive Web Design:
 
         ✅Reviewing CSS layout techniques: Flexbox and CSS Grid fundamentals.
+
         ✅Learn media queries syntax and best practices.
+
         ✅Code the layout with flexible units (%, rem, vw/vh) instead of fixed px sizes.
+
         ✅Study example responsive sites for inspiration and techniques.
 
    - Support required.
@@ -170,7 +199,7 @@ By completing this reflection, you will gain a clearer understanding of your car
      ✅I can grow your career by leveraging online learning platforms, contributing to open-source projects, joining tech communities, participating in coding challenges, and gaining hands-on experience through internships or freelance work—all while building a strong online presence.
 
    - Include networking, mentorship, or educational opportunities.
-   
+
      ✅I can accelerate my career growth by actively engaging with online learning platforms and coding challenges, contributing to open-source projects, and gaining hands-on experience through internships or freelance work. Simultaneously, building relationships in tech communities, seeking mentorship from experienced developers, and participating in workshops, bootcamps, or student programs will provide valuable guidance, support, and opportunities to expand my skills and professional network.
 
 ### Submission
